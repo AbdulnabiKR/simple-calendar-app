@@ -1,3 +1,6 @@
+## 📸 Application Screenshot
+![Calendar App](screenshot.jpeg)
+
 # Simple Calendar App
 
 A full-stack web application that allows users to create and view calendar events.
